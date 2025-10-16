@@ -8,7 +8,7 @@ class SamAICoreServerless {
         this.selectedTool = null;
         this.imagePreview = null;
         this.toolsMenuOpen = false;
-        this.geminiApiKey = 'YOUR_GEMINI_API_KEY_HERE'; // Replace with your actual API key
+        this.geminiApiKey = 'AIzaSyB7nFWKcGw6eN1xjvHkDLpA4BEiOEaz6YU'; // Replace with your actual API key
         
         this.init();
     }
